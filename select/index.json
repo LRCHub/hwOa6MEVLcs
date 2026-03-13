@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Heaven's Door ～陽のあたる場所～",
+  "base_artist": "栞菜智世",
+  "createdAt": "2026-03-13T16:00:42.412090Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heavens Door",
+      "artist": "Place Vendome",
+      "has_synced": true,
+      "path": "select/01_Heavens_Door_Place_Vendome.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/02_Knockin'_On_Heaven's_Door_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Knocking On Heaven's Door (Live Bootleg Recording)",
+      "artist": "The Sisters of Mercy",
+      "has_synced": false,
+      "path": "select/03_Knocking_On_Heaven's_Door_(Live_Bootleg_Recording)_The_Sisters_of_Mercy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Knockin' on Heaven's Door",
+      "artist": "Bryan Ferry",
+      "has_synced": true,
+      "path": "select/04_Knockin'_on_Heaven's_Door_Bryan_Ferry.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Knockin' on Heaven's Door (Studio Version)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/05_Knockin'_on_Heaven's_Door_(Studio_Version)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Knockin' on Heaven's Door",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/06_Knockin'_on_Heaven's_Door_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Knockin' on Heaven's Door",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/07_Knockin'_on_Heaven's_Door_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door - Live at HSBC Arena, Buffalo, NY - May 18, 2003",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/08_Knockin'_On_Heaven's_Door_-_Live_at_HSBC_Arena,_Buffalo,_NY_-_May_18,_2003_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Knockin' on Heaven's Door (live)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/09_Knockin'_on_Heaven's_Door_(live)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/10_Knockin'_On_Heaven's_Door_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "John C. Cale",
+      "has_synced": false,
+      "path": "select/11_Knockin'_On_Heaven's_Door_John_C._Cale.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/12_Knockin'_On_Heaven's_Door_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/13_Knockin'_On_Heaven's_Door_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Knocking on Heavens Door",
+      "artist": "RAIGN",
+      "has_synced": true,
+      "path": "select/14_Knocking_on_Heavens_Door_RAIGN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Knocking on Heaven’s Door",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/15_Knocking_on_Heaven’s_Door_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Knocking on heavens door",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/16_Knocking_on_heavens_door_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Knockin' On Heavens Door",
+      "artist": "John C. Cale",
+      "has_synced": false,
+      "path": "select/17_Knockin'_On_Heavens_Door_John_C._Cale.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heaven's Door ～陽のあたる場所～",
+      "artist": "栞菜智世",
+      "has_synced": false,
+      "path": "select/pl_01_Heaven's_Door_~陽のあたる場所~_栞菜智世.txt"
+    }
+  ]
+}
